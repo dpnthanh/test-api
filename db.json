@@ -16,5 +16,10 @@
         {
             "id": 2
         }
-    ]
+    ],
+    "reward"{
+        "status": "W",
+        "gift_name": "Một cái gối",
+        "gift_code": "765432"
+    }
 }
