@@ -1,22 +1,4 @@
 {
-    "upload-photo" : [
-        {
-            "id": 3,
-            "title": "index 1"
-        },
-        {
-            "success": true,
-            "data": {
-                "photo_index": 1,
-                "relative_path": "Merchandise/transaction/consumer_photo/chung_nv_20200102102615_xOJNh1yD6g9D93jKH869FOCAH1KunLkA.png",
-                "absolute_path": "https://rwp-audit.sgp1.digitaloceanspaces.com/Merchandise/transaction/consumer_photo/chung_nv_20200102102615_xOJNh1yD6g9D93jKH869FOCAH1KunLkA.png",
-                "thumbnails": "https://rwp-audit.sgp1.digitaloceanspaces.com/Merchandise/transaction/consumer_photo/chung_nv_20200102102615_xOJNh1yD6g9D93jKH869FOCAH1KunLkA_thumbnails.png"
-            }
-        },
-        {
-            "id": 2
-        }
-    ],
     "reward": {
         "status": "W",
         "gift_name": "Một cái gối",
