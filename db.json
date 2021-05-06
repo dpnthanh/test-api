@@ -18,5 +18,25 @@
             "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM"
          }
       ]
+   },
+   "schools_list":{
+      "list":[
+         {
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM"
+         },
+         {
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM"
+         },
+         {
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM"
+         },
+         {
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM"
+         }
+      ]
    }
 }
