@@ -2,21 +2,103 @@
    "schools":{
       "list":[
          {
+            "id":1,
             "name":"TH Nguyễn Thị Minh Khai",
-            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM"
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
          },
          {
+            "id":2,
             "name":"TH Nguyễn Thị Minh Khai",
-            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM"
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
          },
          {
+            "id":3,
             "name":"TH Nguyễn Thị Minh Khai",
-            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM"
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
          },
          {
+            "id":4,
             "name":"TH Nguyễn Thị Minh Khai",
-            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM"
-         }
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
+         },
+         {
+            "id":5,
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
+         },
+         {
+            "id":6,
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
+         },
+         {
+            "id":7,
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
+         },
+         {
+            "id":8,
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
+         },
+         {
+            "id":9,
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
+         },
+         {
+            "id":10,
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
+         },
+         {
+            "id":11,
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
+         },
+         {
+            "id":12,
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
+         },
+         {
+            "id":13,
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
+         },
+         {
+            "id":14,
+            "name":"TH Nguyễn Thị Minh Khai",
+            "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+            "total_classes":30,
+            "total_students": 900
+         },
       ]
    },
    "schools_list":{
