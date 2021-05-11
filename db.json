@@ -1,201 +1,231 @@
-{"api": {
-    "success": true,
-    "data": [
-        {
-            "location_id": 1,
-            "location_name": "Cần Thơ",
-            "school_data": [
-                {
-                    "school_id": 1,
-                    "school_name": "Võ Thị Sáu",
-                    "grade_data": [
-                        {
-                            "grade_id": 1,
-                            "grade_name": "1A",
-                            "student_data": [
-                                {
-                                    "student_id": 1,
-                                    "student_name": "Lê Bảo Ngọc",
-                                    "contact_name": "Bùi Văn Tuấn",
-                                    "contact_phone_number": "0988322222"
-                                },
-                                {
-                                    "student_id": 2,
-                                    "student_name": "Lê Bảo Trinh",
-                                    "contact_name": "Bùi Văn Tuấn",
-                                    "contact_phone_number": "0988322222"
-                                },
-                                {
-                                    "student_id": 3,
-                                    "student_name": "Lê Bảo Vui",
-                                    "contact_name": "Bùi Văn Tuấn",
-                                    "contact_phone_number": "0988322222"
-                                },
-                                {
-                                    "student_id": 4,
-                                    "student_name": "Trần Bảo Ngọc",
-                                    "contact_name": "Bùi Văn Tuấn",
-                                    "contact_phone_number": "0988322222"
-                                },
-                                {
-                                    "student_id": 5,
-                                    "student_name": "Lê Anh Thơ",
-                                    "contact_name": "Bùi Văn Tuấn",
-                                    "contact_phone_number": "0988322222"
-                                }
-                            ],
-                            "number_student": 5
-                        },
-                        {
-                            "grade_id": 2,
-                            "grade_name": "1B",
-                            "student_data": [
-                                {
-                                    "student_id": 6,
-                                    "student_name": "Lê Bảo Ngọc Thi",
-                                    "contact_name": "Bùi Văn Tuấn",
-                                    "contact_phone_number": "0988322222"
-                                },
-                                {
-                                    "student_id": 7,
-                                    "student_name": "Lê  Trinh",
-                                    "contact_name": "Bùi Văn Tuấn",
-                                    "contact_phone_number": "0988322222"
-                                },
-                                {
-                                    "student_id": 8,
-                                    "student_name": "Lê Minh Tuấn",
-                                    "contact_name": "Bùi Văn Tuấn",
-                                    "contact_phone_number": "0988322222"
-                                },
-                                {
-                                    "student_id": 9,
-                                    "student_name": "Nguyễn Quang khối",
-                                    "contact_name": "Bùi Văn Tuấn",
-                                    "contact_phone_number": "0988322222"
-                                },
-                                {
-                                    "student_id": 10,
-                                    "student_name": "Tùng Anh",
-                                    "contact_name": "Bùi Văn Tuấn",
-                                    "contact_phone_number": "0988322222"
-                                }
-                            ],
-                            "number_student": 5
-                        },
-                        {
-                            "grade_id": 3,
-                            "grade_name": "1C",
-                            "student_data": [],
-                            "number_student": 0
-                        },
-                        {
-                            "grade_id": 4,
-                            "grade_name": "1D",
-                            "student_data": [],
-                            "number_student": 0
-                        },
-                        {
-                            "grade_id": 5,
-                            "grade_name": "1E",
-                            "student_data": [],
-                            "number_student": 0
-                        },
-                        {
-                            "grade_id": 6,
-                            "grade_name": "1F",
-                            "student_data": [],
-                            "number_student": 0
-                        }
-                    ],
-                    "total_grade": 6,
-                    "total_student": 10
-                },
-                {
-                    "school_id": 2,
-                    "school_name": "Nguyễn Tất Thành",
-                    "grade_data": [
-                        {
-                            "grade_id": 7,
-                            "grade_name": "2A",
-                            "student_data": [],
-                            "number_student": 0
-                        },
-                        {
-                            "grade_id": 8,
-                            "grade_name": "2B",
-                            "student_data": [],
-                            "number_student": 0
-                        },
-                        {
-                            "grade_id": 9,
-                            "grade_name": "2C",
-                            "student_data": [],
-                            "number_student": 0
-                        },
-                        {
-                            "grade_id": 10,
-                            "grade_name": "2D",
-                            "student_data": [],
-                            "number_student": 0
-                        },
-                        {
-                            "grade_id": 11,
-                            "grade_name": "2E",
-                            "student_data": [],
-                            "number_student": 0
-                        },
-                        {
-                            "grade_id": 12,
-                            "grade_name": "2F",
-                            "student_data": [],
-                            "number_student": 0
-                        }
-                    ],
-                    "total_grade": 6,
-                    "total_student": 0
-                },
-                {
-                    "school_id": 3,
-                    "school_name": "Lê Văn Tám",
-                    "grade_data": [],
-                    "total_grade": 0,
-                    "total_student": 0
-                }
+{
+   "api":{
+      "success":true,
+      "data":[
+         {
+            "location_id":1,
+            "location_name":"Cần Thơ",
+            "school_data":[
+               {
+                  "school_id":1,
+                  "school_name":"Võ Thị Sáu",
+                  "grade_data":[
+                     {
+                        "grade_id":1,
+                        "grade_name":"1A",
+                        "student_data":[
+                           {
+                              "student_id":1,
+                              "student_name":"Lê Bảo Ngọc",
+                              "contact_name":"Bùi Văn Tuấn",
+                              "contact_phone_number":"0988322222"
+                           },
+                           {
+                              "student_id":2,
+                              "student_name":"Lê Bảo Trinh",
+                              "contact_name":"Bùi Văn Tuấn",
+                              "contact_phone_number":"0988322222"
+                           },
+                           {
+                              "student_id":3,
+                              "student_name":"Lê Bảo Vui",
+                              "contact_name":"Bùi Văn Tuấn",
+                              "contact_phone_number":"0988322222"
+                           },
+                           {
+                              "student_id":4,
+                              "student_name":"Trần Bảo Ngọc",
+                              "contact_name":"Bùi Văn Tuấn",
+                              "contact_phone_number":"0988322222"
+                           },
+                           {
+                              "student_id":5,
+                              "student_name":"Lê Anh Thơ",
+                              "contact_name":"Bùi Văn Tuấn",
+                              "contact_phone_number":"0988322222"
+                           }
+                        ],
+                        "number_student":5
+                     },
+                     {
+                        "grade_id":2,
+                        "grade_name":"1B",
+                        "student_data":[
+                           {
+                              "student_id":6,
+                              "student_name":"Lê Bảo Ngọc Thi",
+                              "contact_name":"Bùi Văn Tuấn",
+                              "contact_phone_number":"0988322222"
+                           },
+                           {
+                              "student_id":7,
+                              "student_name":"Lê  Trinh",
+                              "contact_name":"Bùi Văn Tuấn",
+                              "contact_phone_number":"0988322222"
+                           },
+                           {
+                              "student_id":8,
+                              "student_name":"Lê Minh Tuấn",
+                              "contact_name":"Bùi Văn Tuấn",
+                              "contact_phone_number":"0988322222"
+                           },
+                           {
+                              "student_id":9,
+                              "student_name":"Nguyễn Quang khối",
+                              "contact_name":"Bùi Văn Tuấn",
+                              "contact_phone_number":"0988322222"
+                           },
+                           {
+                              "student_id":10,
+                              "student_name":"Tùng Anh",
+                              "contact_name":"Bùi Văn Tuấn",
+                              "contact_phone_number":"0988322222"
+                           }
+                        ],
+                        "number_student":5
+                     },
+                     {
+                        "grade_id":3,
+                        "grade_name":"1C",
+                        "student_data":[
+                           
+                        ],
+                        "number_student":0
+                     },
+                     {
+                        "grade_id":4,
+                        "grade_name":"1D",
+                        "student_data":[
+                           
+                        ],
+                        "number_student":0
+                     },
+                     {
+                        "grade_id":5,
+                        "grade_name":"1E",
+                        "student_data":[
+                           
+                        ],
+                        "number_student":0
+                     },
+                     {
+                        "grade_id":6,
+                        "grade_name":"1F",
+                        "student_data":[
+                           
+                        ],
+                        "number_student":0
+                     }
+                  ],
+                  "total_grade":6,
+                  "total_student":10
+               },
+               {
+                  "school_id":2,
+                  "school_name":"Nguyễn Tất Thành",
+                  "grade_data":[
+                     {
+                        "grade_id":7,
+                        "grade_name":"2A",
+                        "student_data":[
+                           
+                        ],
+                        "number_student":0
+                     },
+                     {
+                        "grade_id":8,
+                        "grade_name":"2B",
+                        "student_data":[
+                           
+                        ],
+                        "number_student":0
+                     },
+                     {
+                        "grade_id":9,
+                        "grade_name":"2C",
+                        "student_data":[
+                           
+                        ],
+                        "number_student":0
+                     },
+                     {
+                        "grade_id":10,
+                        "grade_name":"2D",
+                        "student_data":[
+                           
+                        ],
+                        "number_student":0
+                     },
+                     {
+                        "grade_id":11,
+                        "grade_name":"2E",
+                        "student_data":[
+                           
+                        ],
+                        "number_student":0
+                     },
+                     {
+                        "grade_id":12,
+                        "grade_name":"2F",
+                        "student_data":[
+                           
+                        ],
+                        "number_student":0
+                     }
+                  ],
+                  "total_grade":6,
+                  "total_student":0
+               },
+               {
+                  "school_id":3,
+                  "school_name":"Lê Văn Tám",
+                  "grade_data":[
+                     
+                  ],
+                  "total_grade":0,
+                  "total_student":0
+               }
             ]
-        },
-        {
-            "location_id": 2,
-            "location_name": "Thanh Hóa",
-            "school_data": [
-                {
-                    "school_id": 4,
-                    "school_name": "Nguyễn Đình Chiều",
-                    "grade_data": [],
-                    "total_grade": 0,
-                    "total_student": 0
-                },
-                {
-                    "school_id": 5,
-                    "school_name": "Nguyễn Trường Tộ",
-                    "grade_data": [],
-                    "total_grade": 0,
-                    "total_student": 0
-                }
+         },
+         {
+            "location_id":2,
+            "location_name":"Thanh Hóa",
+            "school_data":[
+               {
+                  "school_id":4,
+                  "school_name":"Nguyễn Đình Chiều",
+                  "grade_data":[
+                     
+                  ],
+                  "total_grade":0,
+                  "total_student":0
+               },
+               {
+                  "school_id":5,
+                  "school_name":"Nguyễn Trường Tộ",
+                  "grade_data":[
+                     
+                  ],
+                  "total_grade":0,
+                  "total_student":0
+               }
             ]
-        },
-        {
-            "location_id": 3,
-            "location_name": "Nam Định",
-            "school_data": [
-                {
-                    "school_id": 6,
-                    "school_name": "Lê Đình Cung",
-                    "grade_data": [],
-                    "total_grade": 0,
-                    "total_student": 0
-                }
+         },
+         {
+            "location_id":3,
+            "location_name":"Nam Định",
+            "school_data":[
+               {
+                  "school_id":6,
+                  "school_name":"Lê Đình Cung",
+                  "grade_data":[
+                     
+                  ],
+                  "total_grade":0,
+                  "total_student":0
+               }
             ]
-        }
-    ]
-}}
+         }
+      ]
+   }
+}
