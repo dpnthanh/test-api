@@ -100,5 +100,32 @@
             "total_students":900
          }
       ]
-   }
+   },
+   "school_list":{
+  "school_list":[
+     {
+        "id":1,
+        "name":"TH Nguyễn Thị Minh Khai",
+        "addres":"30 Nguyễn Thị Minh Khai, p1, q1, tp HCM",
+        "total_classes":30,
+        "total_students":900,
+        "class_list": [
+          {
+            "id": 1,
+            "name": "Lớp 1A1",
+            "student_list": [
+              {
+                "id": 1,
+                "name": "Nguyễn Văn A",
+                "parent": "Nguyễn Văn B",
+                "phone": "0987654321",
+                "tag_id": null
+              }
+            ]
+          }
+        ]
+     }
+
+  ]
+ }
 }
